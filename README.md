@@ -33,6 +33,6 @@ ng serve
 
 ## Author
 
-Amanda Rae Lloyd
+Amanda Lloyd
 
 MIT License
